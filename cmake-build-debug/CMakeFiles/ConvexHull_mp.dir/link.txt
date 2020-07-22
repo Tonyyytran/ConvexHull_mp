@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/ConvexHull_mp.dir/main.cpp.o  -o ConvexHull_mp.exe -Wl,--out-implib,libConvexHull_mp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
